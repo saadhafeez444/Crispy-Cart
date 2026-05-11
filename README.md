@@ -47,7 +47,7 @@ The project was developed to:
 
 # 📱 Application Preview
 
-<img src="cripy.png" width="300">
+<img src="crispy.png" width="300">
 
 ---
 
